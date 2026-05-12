@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(python -c ' *)",
+      "Bash(pip install *)",
+      "Bash(python -X utf8 -c ' *)",
+      "Bash(python -m compact_lattice_gadget.polynomials)",
+      "Bash(python \"compact_lattice_gadget/demo.py\")",
+      "Bash(PYTHONIOENCODING=utf-8 python \"compact_lattice_gadget/demo.py\")"
+    ]
+  }
+}
