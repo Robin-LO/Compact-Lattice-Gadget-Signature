@@ -128,7 +128,7 @@ $$D_{\mathbb{Z},\, \sigma,\, c}(x) \propto \exp\!\left(-\pi \cdot \frac{(x-c)^2}
 给定目标 $\mathbf{u}' \in \mathbb{Z}_Q^n$, 逐坐标计算:
 
 $$\begin{aligned}
-e_i &= u'_i \bmod p \quad \in [-\tfrac{p}{2}, \tfrac{p}{2}) \\[4pt]
+e_i &= u'_i \bmod p \quad \in [-\tfrac{p}{2}, \tfrac{p}{2}) \\
 c_i &= \frac{u'_i - e_i}{p}
 \end{aligned}$$
 
@@ -318,6 +318,15 @@ $$s_1\!\left(M(a)\right) = \max_{j \in \mathbb{Z}_n} \left|\hat{a}(\omega_n^j)\r
 4. Gentry, Peikert, Vaikuntanathan. "Trapdoors for Hard Lattices and New Cryptographic Constructions." STOC 2008.
 5. Falcon: https://falcon-sign.info/
 6. Dilithium: https://pq-crystals.org/dilithium/
+
+## 项目声明 Project Statement
+本项目的作者及单位:
+The author and affiliation of this project:
+```
+项目名称 (Project Name): Compact Lattice Gadget Signature
+作者 (Author): Pingbin Luo, Junzuo Lai
+作者单位 (Affiliation): 暨南大学网络空间安全学院(college of cyber Security,Jinan university)
+```
 
 ## 免责声明
 
